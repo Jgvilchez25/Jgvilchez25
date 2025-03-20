@@ -4,4 +4,4 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?color=E41224?font=Time+New+Roman&color=White&size=20&center=true&vCenter=true&width=600&height=100&lines=Full+stack+developer,;Computer+Science+Engineering+Student,;Proactive+Learner/Researcher,;A+web+development+Enthusiast..<3"></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E41224&size=20&center=true&vCenter=true&width=600&height=100&lines=Full+stack+developer,;Computer+Science+Engineering+Student,;Proactive+Learner/Researcher,;A+web+development+Enthusiast..<3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&pause=500&color=E41224&size=20&center=true&vCenter=true&width=600&height=100&lines=Full+stack+developer,;Computer+Science+Engineering+Student,;Proactive+Learner/Researcher,;A+web+development+Enthusiast..<3" alt="Typing SVG" /></a>
